@@ -1,5 +1,7 @@
 # arsinh – area hyperbolic sine
 
+    npm install arsinh
+
 ## Usage
 
     var arsinh = require('arsinh');
